@@ -1,0 +1,33 @@
+{
+  "name": "layout-renderer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "lr": "bin/layout-renderer"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/ip": "^1.1.0",
+    "@types/node": "^13.13.4",
+    "boxen": "^4.2.0",
+    "connect": "^3.7.0",
+    "esm": "^3.2.25",
+    "hookable": "^4.0.0",
+    "http": "0.0.1-security",
+    "https": "^1.0.0",
+    "ip": "^1.1.5",
+    "lodash": "^4.17.15",
+    "vue-server-renderer": "^2.6.11"
+  },
+  "devDependencies": {
+    "chalk": "^4.0.0",
+    "consola": "^2.11.3",
+    "minimist": "^1.2.5",
+    "typescript": "^3.8.3"
+  }
+}
