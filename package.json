@@ -13,6 +13,8 @@
   "license": "ISC",
   "dependencies": {
     "@types/ip": "^1.1.0",
+    "@types/memory-fs": "^0.3.2",
+    "@types/minimist": "^1.2.0",
     "@types/node": "^13.13.4",
     "boxen": "^4.2.0",
     "connect": "^3.7.0",
@@ -22,6 +24,7 @@
     "https": "^1.0.0",
     "ip": "^1.1.5",
     "lodash": "^4.17.15",
+    "memory-fs": "^0.5.0",
     "vue-server-renderer": "^2.6.11"
   },
   "devDependencies": {
