@@ -30,7 +30,7 @@
   "devDependencies": {
     "chalk": "^4.0.0",
     "consola": "^2.11.3",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "typescript": "^3.8.3"
   }
 }
